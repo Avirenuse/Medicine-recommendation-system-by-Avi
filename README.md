@@ -21,7 +21,7 @@ data, medical histories, and potential drug interactions, the system aims to red
 optimize treatment plans, and improve patient outcomes. It enhances efficiency in healthcare 
 delivery and supports informed decision-making for better, safer, and more personalized care.
 
-# Scope : -
+# Scope
   The Medicine Recommendation System (MRS) is designed to support healthcare 
 professionals by providing personalized medication recommendations based on patient data, 
 such as medical history, symptoms, allergies, and demographics. The system can be used in 
